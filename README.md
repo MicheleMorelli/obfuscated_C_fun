@@ -1,9 +1,9 @@
-#Obfuscated_C_fun:My_Pretty_Calendar
+# Obfuscated C fun:My Pretty Calendar
 
-For some strange reason, the lovely nursery rhyme that I wrote to celebrate my pretty calendar outputs notorious planetary greetings.
+For some strange reason, the lovely nursery rhyme that I wrote to celebrate **my pretty calendar** outputs **notorious planetary greetings**.
 Very mysterious!
  
-In other words: a bit of fun with simple obfuscation in C.
+-> In other words: a bit of fun with simple obfuscation in C.
 
 To run it, just make sure that both the .c and .h files are in the same directory.
 
