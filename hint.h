@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define Your_hints_will_be int
 #define ____(__) printf("%c",__)
 #define is =
 #define my :
