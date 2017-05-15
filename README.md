@@ -1,5 +1,18 @@
-# obfuscated_C_fun
+#Obfuscated_C_fun:My_Pretty_Calendar
 
-While I was doing some practice with the brilliant book "The C Puzzle Book" by Alan R. Feuer, I thought it would be fun to try to make my own puzzle in obfuscated C.
+For some strange reason, the lovely nursery rhyme that I wrote to celebrate my pretty calendar outputs notorious planetary greetings.
+Very mysterious!
+ 
+In other words: a bit of fun with simple obfuscation in C.
 
+To run it, just make sure that both the .c and .h files are in the same directory.
+
+You can compile it easily in GCC with something like
+```
+$gcc -std=c99 -o pretty_calendar my_pretty_calendar.c
+```
+and then run with
+```
+$./pretty_calendar
+```
 Enjoy! :-) 

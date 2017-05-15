@@ -25,12 +25,12 @@ In April: // I don't like any day either!
 In October my favourite_day is 11; how_lovely;
 In May: //I don't like any day!
 In August: favourite_day is 14; how_lovely;
-In June my favourite_day is ~64; how_lovely;
+In June my favourite_day is ~64; what_a_bizzarre_number;
 In July my favourite_day is 22 if_it_is_Monday; how_lovely;
 In September my favourite_day is 17; how_lovely;
 In November my favourite_day is 3; how_lovely;
-In December my favourite_day is ~63; how_lovely;
-In january my favourite_day is ~86; how_lovely;
+In December my favourite_day is ~63; what_a_bizzarre_number;
+In january my favourite_day is ~86; what_a_bizzarre_number;
 
 } ____((*(&__)*_>>_/_)+ favourite_day); }}
 
