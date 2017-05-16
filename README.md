@@ -5,7 +5,7 @@ Very mysterious!
  
 -> In other words: a bit of fun with simple obfuscation in C.
 
-![C obfuscation fun](docs/pics/pretty_calendar.png)
+![Obfuscated C Fun](doc/pics/pretty_calendar.png)
 
 # How to compile it
 To compile it, just make sure that both the .c and .h files are in the same directory.
