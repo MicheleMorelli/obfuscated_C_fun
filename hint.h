@@ -6,7 +6,7 @@
 #define In case
 #define MY_PRETTY_CALENDAR void main(){
 #define how_lovely break;
-#define now_that_is_a_bizzarre_number how_lovely
+#define what_a_bizzarre_number how_lovely
 #define if_it_is_Monday -(1<<5)
 #define The_best switch(
 #define is_December_if_you_ask_me ){

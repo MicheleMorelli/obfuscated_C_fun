@@ -1,4 +1,4 @@
-# Obfuscated C fun:My Pretty Calendar
+# Obfuscated C Puzzle:My Pretty Calendar
 
 For some strange reason, the lovely nursery rhyme that I wrote to celebrate **my pretty calendar** outputs some **notorious planetary greetings**.
 Very mysterious!
